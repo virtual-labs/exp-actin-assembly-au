@@ -1,0 +1,47 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Phallotoxin binds to: ------",
+      "answers": {
+        "a": "Actin filaments",
+        "b": "Actin monomer",
+        "c": "F- actin",
+        "d": "Both A & C"
+      },
+ 
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+ 	  
+
+    {
+      "question": "2. The cytoskeleton is a system of proteins in eukaryotic cells.",
+      "answers": {
+        "a": "proteins-eukaryotic",
+        "b": "proteins-prokaryotic",
+        "c": "DNA-prokaryotic",
+        "d": "DNA-eukaryotic"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. Phalloidin is isolated from the mushroom --------",
+      "answers": {
+        "a": "Amanita muscaria",
+        "b": "Amanita phalloides",
+        "c": "Amanita bisporigera",
+        "d": "Amanita pseudoporphyria"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+	 
+	 

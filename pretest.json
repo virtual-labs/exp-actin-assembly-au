@@ -1,0 +1,48 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. You want to determine the location of a specific protein in a cell using a colored stain. Which of the following is the best technique for this purpose?",
+      "answers": {
+        "a": "electron microscopy",
+        "b": "phase contrast microscopy",
+        "c": "bright-field microscopy",
+        "d": "fluorescence microscopy"
+      },
+ 
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+ 	  
+    	
+    {
+      "question": "2. Phalloidin is isolated from the mushroom --------",
+      "answers": {
+        "a": "Amanita muscaria",
+        "b": "Amanita phalloides",
+        "c": "Amanita bisporigera",
+        "d": "Amanita pseudoporphyria"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. Actin filaments are also known as -------",
+      "answers": {
+        "a": "Micro filaments",
+        "b": "Intermediate filaments",
+        "c": "Microtubules",
+        "d": "Microtrabeculae"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+	 
+	 
+	 
